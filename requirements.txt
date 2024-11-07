@@ -1,0 +1,5 @@
+
+git+https://github.com/facebookresearch/detectron2.git
+torch==1.11.0
+torchvision
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
